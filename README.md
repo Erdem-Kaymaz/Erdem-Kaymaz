@@ -1,4 +1,17 @@
-## Hi there 👋
+Привет!я Эрдем
+python-разработчик,интересуюсь Backend.
+Мой Hard Skills:
+Python,ООП,алгоритмы
+telegram,pyrogram
+PyGame
+Flask,RESTAPI
+SQlite
+Мой проекты:
+Telegram бот с мини-играми
+
+Мой Soft Skills:
+Умение работать в команде
+Адаптивность
 
 <!--
 **Erdem-Kaymaz/Erdem-Kaymaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
